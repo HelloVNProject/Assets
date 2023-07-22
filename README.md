@@ -1,7 +1,7 @@
 # Assets
 The Original Assets Files of HelloVN.
 
-[![Hello VN][hellovn-shield]][hellovn] [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![Hello VN][hellovn-shield]][hellovn] [![Status][status-shield] [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # License
 This work is licensed under a
@@ -21,3 +21,5 @@ If there is another license in a sub directory, then the new license's priority 
 
 [hellovn]: https://github.com/HelloVNProject
 [hellovn-shield]: https://img.shields.io/badge/Owner%20By-Hello%20VN-dark.svg?style=flat-square&labelColor=000&color=EAEAEA
+
+[status-shield]: https://img.shields.io/badge/Status-Work%20In%20Progress-dark.svg?style=flat-square
