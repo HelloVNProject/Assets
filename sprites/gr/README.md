@@ -1,0 +1,1 @@
+Character GR's sprites original assets files.

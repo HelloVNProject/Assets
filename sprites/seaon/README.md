@@ -1,0 +1,1 @@
+Character Seaon's sprites original assets files.

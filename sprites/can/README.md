@@ -1,0 +1,1 @@
+Character Can's sprites original assets files.
