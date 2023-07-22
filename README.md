@@ -1,7 +1,7 @@
 # Assets
 The Original Assets Files of HelloVN.
 
-[![Hello VN][hellovn-shield]][hellovn] [![Status][status-shield] [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![Hello VN][hellovn-shield]][hellovn] ![Status][status-shield] [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # License
 This work is licensed under a
