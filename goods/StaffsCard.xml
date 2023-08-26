@@ -1,0 +1,50 @@
+<Root>
+  <Card>
+    <BuildVia>IntelliJ</BuildVia>
+    <DesignVia>Adobe XD</DesignVia>
+    <CodeFontUsing>Intel Mono</CodeFontUsing>
+    <ChineseFontUsing>HarmonyOS Sans SC</ChineseFontUsing>
+    <StyleFrom>Extensible Markup Language (XML)</StyleFrom>
+    <MetaData style="goods-card" readable="True">
+      <Name>StaffsCard</Name>
+      <Icon>[REPLACE THE ICON]</Icon>
+      <Title>制作人员名单</Title>
+      <Version>1.0.0</Version>
+      <DesignBy>Rominwolf</DesignBy>
+      <DesignDate>2023-07-29</DesignDate>
+      <DesignTime>15:14</DesignTime>
+      <Nonce>Is That Enough Tall?</Nonce>
+      <Nonce>Looks Still Need 3 Lines.</Nonce>
+      <Nonce>Alright. Let's Make More Lines.</Nonce>
+      <Nonce>我永远喜欢基阿老师！</Nonce>
+      <Nonce>以及参咸犬老师！以及二甲庚烯老师！以及 Socn 老师！</Nonce>
+      <Comment>
+        感谢您参与《问候无疆。》游戏的制作，谢谢！
+      </Comment>
+      <Nonce>还有 Croissant 老师！还有好想发懒摸鱼，还有登上陆地的鱼！</Nonce>
+      <Nonce>还有所有参与了游戏测试的朋友们！爱你们！</Nonce>
+      <Nonce>但是都不要跟我抢 Cooper，否则要你好果子吃。</Nonce>
+      <Nonce>I Think That Is Enough.</Nonce>
+    </MetaData>
+    <PageSwitch>True</PageSwitch>
+    <StaffsData readable="True" compact="True">
+        <Staff roles="导演；编剧；角色设计师；立绘画师；插画师；用户界面设计师；游戏客户端程序员；物料设计师">Rominwolf</Staff>
+        <Staff roles="编剧（《吸烟室》官方故事线）；特别鸣谢">GeorgeSquares</Staff>
+        <Staff roles="角色设计师；插画师；图标设计师" aka="基阿">GRtheGreat</Staff>
+        <Staff roles="角色设计师；插画师" aka="参咸犬">tiAnsxq</Staff>
+        <Staff roles="插画师" aka="二甲庚烯">EJheptene</Staff>
+        <Staff roles="角色设计师；立绘画师">lam0rang3</Staff>
+        <Staff roles="立绘画师">staufdraws</Staff>
+        <Staff roles="音乐家">Anthemics</Staff>
+        <Staff roles="用户界面设计师">compymono</Staff>
+        <Staff roles="后端程序员">ItzSocn</Staff>
+        <Staff roles="测试员">Opossoll</Staff>
+        <Staff roles="法律顾问；特别鸣谢">Croissant_Daily</Staff>
+        <Staff roles="特别鸣谢">好想发懒摸鱼</Staff>
+        <Staff roles="特别鸣谢">登上陆地的鱼</Staff>
+        <Staff roles="特别鸣谢">EchoTheVN</Staff>
+        <Staff roles="测试员们；特别鸣谢">罗明狗狗别墅的朋友们</Staff>
+        <Comment>高亮行表示为您的所在位置。</Comment>
+    </StaffsData>
+  </Card>
+</Root>
